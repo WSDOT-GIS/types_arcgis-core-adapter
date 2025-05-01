@@ -22,5 +22,12 @@ const FeatureLayer = await window.$arcgis.import<typeof __esri.FeatureLayer>(
 const locateBetweenOperator = await window.$arcgis.import<
   typeof __esri.locateBetweenOperator
 >("@arcgis/core/geometry/operators/locateBetweenOperator");
-
 ```
+
+## Usage
+
+1. Open your terminal in the root folder of your project.
+2. Add this project to your package.json
+    ```shell
+    bun add --dev github:WSDOT-GIS/types_arcgis-core-adapter
+    ```

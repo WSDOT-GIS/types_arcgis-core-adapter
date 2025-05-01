@@ -12,10 +12,12 @@ Georeference
 Georeferenced
 Geotrigger
 geotriggers
+happydom
 Multipoint
 Multiray
 Nonspatial
 Refreshable
+registrator
 Sublayer
 Sublayers
 Viewshed
